@@ -1,0 +1,19 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .center{
+    display: flex;
+    justify-content: center;
+  }
+  
+  ul {
+      list-style: none;
+      padding: 0px;
+  }
+  
+  #user-form {
+    display: none;
+  }
+ 
